@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optionnel - si le dataset est trop gros)
+# data/
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
